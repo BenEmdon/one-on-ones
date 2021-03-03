@@ -1,5 +1,5 @@
 # one-on-ones
-This repo serves as a template to organize your 1:1s in.
+This repo serves as a template to organize 1:1s agendas in.
 
 Contents:
 - Workflow to create a weekly agenda issue

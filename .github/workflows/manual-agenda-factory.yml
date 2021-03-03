@@ -1,6 +1,6 @@
 name: Manually creates a weekly agenda from an issue template
 on:
-  workflow_dispatch
+  workflow_dispatch:
 jobs:
   stuff:
     runs-on: ubuntu-latest

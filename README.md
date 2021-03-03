@@ -6,4 +6,4 @@ Contents:
 - [Workdlow to manually create an agenda issue](https://github.com/BenEmdon/one-on-ones/blob/main/.github/workflows/manual-agenda-factory.yml)
 - [Issue template used to create agenda issue](https://github.com/BenEmdon/one-on-ones/blob/main/.github/ISSUE_TEMPLATE.md)
 
-Issue generated: [https://github.com/BenEmdon/one-on-ones/issues/1](#1)
+Issue generated: [#1](https://github.com/BenEmdon/one-on-ones/issues/1)

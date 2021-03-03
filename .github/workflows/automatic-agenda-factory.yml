@@ -1,5 +1,5 @@
 name: Automatically creates a weekly agenda from an issue template
-# TODO: 👇 Un-comment to schedule a issue to be created every Wednesday at 00:00 UTC
+# TODO: 👇 Un-comment to schedule an issue to be created every Wednesday at 00:00 UTC
 # on:
 #   schedule:
 #     - cron: '0 0 * * 3'
